@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalFindAWriter_01202016\Week3_CodeEvalFindAWriter_01202016\bin\Debug\Week3_CodeEvalFindAWriter_01202016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalFindAWriter_01202016\Week3_CodeEvalFindAWriter_01202016\bin\Debug\Week3_CodeEvalFindAWriter_01202016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalFindAWriter_01202016\Week3_CodeEvalFindAWriter_01202016\bin\Debug\Week3_CodeEvalFindAWriter_01202016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalFindAWriter_01202016\Week3_CodeEvalFindAWriter_01202016\obj\Debug\Week3_CodeEvalFindAWriter_01202016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalFindAWriter_01202016\Week3_CodeEvalFindAWriter_01202016\obj\Debug\Week3_CodeEvalFindAWriter_01202016.pdb

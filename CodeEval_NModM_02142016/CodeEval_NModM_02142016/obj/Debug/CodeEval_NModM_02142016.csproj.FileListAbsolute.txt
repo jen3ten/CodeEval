@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_NModM_02142016\CodeEval_NModM_02142016\bin\Debug\CodeEval_NModM_02142016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_NModM_02142016\CodeEval_NModM_02142016\bin\Debug\CodeEval_NModM_02142016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_NModM_02142016\CodeEval_NModM_02142016\bin\Debug\CodeEval_NModM_02142016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_NModM_02142016\CodeEval_NModM_02142016\obj\Debug\CodeEval_NModM_02142016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_NModM_02142016\CodeEval_NModM_02142016\obj\Debug\CodeEval_NModM_02142016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_NModM_02142016\CodeEval_NModM_02142016\obj\Debug\CodeEval_NModM_02142016.pdb

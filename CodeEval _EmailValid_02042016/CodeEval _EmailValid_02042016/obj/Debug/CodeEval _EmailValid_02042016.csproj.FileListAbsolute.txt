@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval _EmailValid_02042016\CodeEval _EmailValid_02042016\bin\Debug\CodeEval _EmailValid_02042016.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEval _EmailValid_02042016\CodeEval _EmailValid_02042016\bin\Debug\CodeEval _EmailValid_02042016.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEval _EmailValid_02042016\CodeEval _EmailValid_02042016\bin\Debug\CodeEval _EmailValid_02042016.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEval _EmailValid_02042016\CodeEval _EmailValid_02042016\obj\Debug\CodeEval _EmailValid_02042016.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEval _EmailValid_02042016\CodeEval _EmailValid_02042016\obj\Debug\CodeEval _EmailValid_02042016.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\CodeEval _EmailValid_02042016\CodeEval _EmailValid_02042016\obj\Debug\CodeEval _EmailValid_02042016.pdb

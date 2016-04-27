@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_SwapCase_01302016\CodeEval_SwapCase_01302016\bin\Debug\CodeEval_SwapCase_01302016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_SwapCase_01302016\CodeEval_SwapCase_01302016\bin\Debug\CodeEval_SwapCase_01302016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_SwapCase_01302016\CodeEval_SwapCase_01302016\bin\Debug\CodeEval_SwapCase_01302016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_SwapCase_01302016\CodeEval_SwapCase_01302016\obj\Debug\CodeEval_SwapCase_01302016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_SwapCase_01302016\CodeEval_SwapCase_01302016\obj\Debug\CodeEval_SwapCase_01302016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_SwapCase_01302016\CodeEval_SwapCase_01302016\obj\Debug\CodeEval_SwapCase_01302016.pdb

@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_ReadMore_02072016\CodeEval_ReadMore_02072016\bin\Debug\CodeEval_ReadMore_02072016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_ReadMore_02072016\CodeEval_ReadMore_02072016\bin\Debug\CodeEval_ReadMore_02072016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_ReadMore_02072016\CodeEval_ReadMore_02072016\bin\Debug\CodeEval_ReadMore_02072016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_ReadMore_02072016\CodeEval_ReadMore_02072016\obj\Debug\CodeEval_ReadMore_02072016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_ReadMore_02072016\CodeEval_ReadMore_02072016\obj\Debug\CodeEval_ReadMore_02072016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_ReadMore_02072016\CodeEval_ReadMore_02072016\obj\Debug\CodeEval_ReadMore_02072016.pdb

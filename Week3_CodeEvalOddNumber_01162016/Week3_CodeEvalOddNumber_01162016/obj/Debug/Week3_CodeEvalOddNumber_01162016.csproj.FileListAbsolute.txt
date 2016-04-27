@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalOddNumber_01162016\Week3_CodeEvalOddNumber_01162016\bin\Debug\Week3_CodeEvalOddNumber_01162016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalOddNumber_01162016\Week3_CodeEvalOddNumber_01162016\bin\Debug\Week3_CodeEvalOddNumber_01162016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalOddNumber_01162016\Week3_CodeEvalOddNumber_01162016\bin\Debug\Week3_CodeEvalOddNumber_01162016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalOddNumber_01162016\Week3_CodeEvalOddNumber_01162016\obj\Debug\Week3_CodeEvalOddNumber_01162016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalOddNumber_01162016\Week3_CodeEvalOddNumber_01162016\obj\Debug\Week3_CodeEvalOddNumber_01162016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week3_CodeEvalOddNumber_01162016\Week3_CodeEvalOddNumber_01162016\obj\Debug\Week3_CodeEvalOddNumber_01162016.pdb

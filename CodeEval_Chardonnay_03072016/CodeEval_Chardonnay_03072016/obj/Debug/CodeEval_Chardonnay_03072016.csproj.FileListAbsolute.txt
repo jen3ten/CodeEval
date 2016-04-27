@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_Chardonnay_03072016\CodeEval_Chardonnay_03072016\bin\Debug\CodeEval_Chardonnay_03072016.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_Chardonnay_03072016\CodeEval_Chardonnay_03072016\obj\Debug\CodeEval_Chardonnay_03072016.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_Chardonnay_03072016\CodeEval_Chardonnay_03072016\bin\Debug\CodeEval_Chardonnay_03072016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_Chardonnay_03072016\CodeEval_Chardonnay_03072016\bin\Debug\CodeEval_Chardonnay_03072016.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_Chardonnay_03072016\CodeEval_Chardonnay_03072016\obj\Debug\CodeEval_Chardonnay_03072016.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CodeEval_Chardonnay_03072016\CodeEval_Chardonnay_03072016\obj\Debug\CodeEval_Chardonnay_03072016.pdb
